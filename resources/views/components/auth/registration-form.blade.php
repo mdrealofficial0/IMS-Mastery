@@ -33,9 +33,7 @@
                                 <button onclick="onRegistration()" class="btn mt-3 w-100  bg-gradient-primary">Complete</button>
                             </div>
                         </div>
-                        {{-- <br>
-                        <p class="col-md-4 p-2">Already user?</p> <a class="col-md-4 p-2" href="{{url('/userLogin')}}">Login</a> --}}
-
+                        
                         <div class="float-end mt-3">
                             <span>
                                
